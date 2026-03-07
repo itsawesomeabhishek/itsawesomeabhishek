@@ -12,7 +12,8 @@
 
 <table>
 <tr>
-<td width="65%">
+
+<td width="65%" valign="top">
 
 ## 🚀 About Me
 
@@ -24,8 +25,10 @@
 
 </td>
 
-<td width="35%">
-<img src="https://i.imgflip.com/65efzo.gif" height="200"/>
+<td width="35%" align="center">
+
+<img src="https://i.imgflip.com/65efzo.gif" width="220"/>
+
 </td>
 
 </tr>
