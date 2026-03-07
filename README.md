@@ -27,7 +27,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://i.imgflip.com/65efzo.gif" width="220"/>
+<img src="https://i.imgflip.com/65efzo.gif" width="260"/>
 
 </td>
 
