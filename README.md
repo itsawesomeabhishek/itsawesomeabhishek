@@ -22,7 +22,7 @@
 - 🎯 Love solving complex problems and contributing to innovative projects
 - ⚡ Fun fact: I enjoy automating everything!
 
-<br clear="both"/>
+
 
 ---
 
