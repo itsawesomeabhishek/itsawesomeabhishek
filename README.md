@@ -14,7 +14,7 @@
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 - 💻 **Full-Stack Developer** passionate about building scalable software
 - 🛠️ Interested in **backend systems**, **developer tools**, and **open-source**
