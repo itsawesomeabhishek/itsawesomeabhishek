@@ -27,7 +27,7 @@
 
 <td width="55%" align="center">
 
-<img src="https://i.imgflip.com/65efzo.gif" width="300"/>
+<img src="https://i.imgflip.com/65efzo.gif" width="300" loading="lazy" alt="Coding GIF"/>
 
 </td>
 
@@ -77,7 +77,7 @@
 ## 📊 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112007&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112007&theme=tokyonight&hide_border=true" loading="lazy" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -85,10 +85,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek112007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abhishek112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/abhishek112007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/abhishek112007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abhishek112007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" alt="LinkedIn Badge"/></a>
+  <a href="mailto:abhishek112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" loading="lazy" alt="Gmail Badge"/></a>
+  <a href="https://github.com/abhishek112007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" loading="lazy" alt="GitHub Badge"/></a>
+  <a href="https://instagram.com/abhishek112007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" loading="lazy" alt="Instagram Badge"/></a>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhishek112007/abhishek112007/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/abhishek112007/abhishek112007/output/snake.svg" loading="lazy" alt="Contribution Snake"/>
 </div>
 
 ---
