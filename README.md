@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Building+Cool+Stuff!" alt="Typing SVG" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=itsawesomeabhishek&style=for-the-badge&color=blueviolet)
-  [![GitHub followers](https://img.shields.io/github/followers/abhishek112007?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/itsawesomeabhishek?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/itaawesomeabhishek?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/itsawesomeabhishek?tab=repositories)
+  [![GitHub followers](https://img.shields.io/github/followers/itsawesomeabhishek?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/itsawesomeabhishek?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/itsawesomeabhishek?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/itsawesomeabhishek?tab=repositories)
 </div>
 
 <br>
