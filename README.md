@@ -91,15 +91,7 @@
   <a href="https://instagram.com/abhishek_112007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" loading="lazy" alt="Instagram Badge"/></a>
 </p>
 
----
 
-## 🌌 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsawesomeabhishek/itsawesomeabhishek/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
