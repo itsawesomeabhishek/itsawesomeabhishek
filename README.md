@@ -93,6 +93,14 @@
 
 ---
 
+## 🌌 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhishek112007/abhishek112007/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -101,6 +109,14 @@
 
 ---
 
-<p align="center">
-<b>⭐ Thanks for visiting! Feel free to connect with me ⭐</b>
-</p>
+<div align="center">
+
+  ![Visitor Count](https://count.getloli.com/get/@abhishek112007.github.readme)
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+  **Thanks for visiting my profile! 🙏**
+
+  *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
+
+</div>
