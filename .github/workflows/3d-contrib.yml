@@ -1,5 +1,8 @@
 name: GitHub 3D Contribution Graph
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
