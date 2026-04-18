@@ -96,7 +96,7 @@
 ## 🌌 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhishek112007/abhishek112007/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+  <img src="https://raw.githubusercontent.com/itsawesomeabhishek/itsawesomeabhishek/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
 ---

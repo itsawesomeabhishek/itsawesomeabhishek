@@ -2,8 +2,8 @@ name: GitHub 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:        # Allows manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,25 +19,12 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: abhishek112007
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "username": "abhishek112007",
-              "baseSettings": {
-                "autoStepColors": true,
-                "backgroundColor": "#00000000"
-              },
-              "type": ["profile-night-rainbow"]
-            }
+          USERNAME: itsawesomeabhishek
 
-      - name: Push output to output branch
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output 2>/dev/null || git checkout output
-          git rm -rf . --ignore-unmatch || true
-          cp -r profile-3d-contrib ./profile-3d-contrib 2>/dev/null || true
-          git add profile-3d-contrib/
+          git add -A
           git commit -m "chore: update 3D contribution graph [skip ci]" || echo "Nothing to commit"
-          git push origin output --force
+          git push
